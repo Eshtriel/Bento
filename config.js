@@ -171,11 +171,11 @@ const CONFIG = {
 				},
 				{
 					name: 'PRISMS',
-					link: 'https://ustep.ustp.edu.ph/my/',
+					link: 'https://prisms.ustp.edu.ph/',
 				},
 				{
 					name: 'USTeP',
-					link: 'https://prisms.ustp.edu.ph/',
+					link: 'https://ustep.ustp.edu.ph/my/',
 				},
 			],
 		},
